@@ -59,14 +59,14 @@
 ### 3-1) Cohort Retention 분석
 - 가입 Cohort별 **Day N Retention Curve** 도출
 - 무료 체험 Cohort vs 유료 전환 Cohort 비교
-- ![코호트 곡선 차트](cohort_retention.png)
+- ![코호트 곡선 차트](images/cohort_retention.png)
 
 ---
 
 ### 3-2) Funnel 분석 및 유료 전환율 도출
 - Funnel: **가입 → 첫 콘텐츠 소비 → 무료 체험 완료 → 유료 전환**
 - 유료 전환 구간에서 **최대 이탈률(85%)** 확인
-  ![퍼널 차트](funnel_chart.png)
+- ![퍼널 차트](images/funnel_chart.png)
 
 | 단계                          | 전환율 (%) |
 |--------------------------------|------------|
@@ -77,7 +77,7 @@
 ---
 
 ### 3-3) 가설 검정 및 세그먼트 분석
-  ![가설 검정](hypothesis_test.png)
+- ![가설 검정](images/hypothesis_test.png)
 
 | 가설코드 | 가설 내용                                               | 결과                |
 |----------|----------------------------------------------------------|---------------------|
