@@ -1,0 +1,8 @@
+pandas==2.0.3
+numpy==1.24.4
+matplotlib==3.7.3
+seaborn==0.12.2
+google-cloud-bigquery==3.14.1
+sqlalchemy==2.0.29
+pyarrow==14.0.1
+scipy==1.11.4
