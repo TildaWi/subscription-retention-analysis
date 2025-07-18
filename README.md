@@ -59,7 +59,7 @@
 ### 3-1) Cohort Retention 분석
 - 가입 Cohort별 **Day N Retention Curve** 도출
 - 무료 체험 Cohort vs 유료 전환 Cohort 비교
-  ![코호트 리텐션 분석](cohort_retention.png)
+- ![코호트 곡선 차트](cohort_retention.png)
 
 ---
 
